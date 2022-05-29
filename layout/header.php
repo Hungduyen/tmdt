@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>HHN SHOP</title>
+        <title>Thương mại điện tử</title>
         <meta charset="UTF-8">
         <link rel="shortcut icon" href="public/images/iconute.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">

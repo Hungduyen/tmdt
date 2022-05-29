@@ -2,8 +2,8 @@
     <div id="foot-body">
         <div class="wp-inner clearfix">
             <div class="block" id="info-company">
-                <h3 class="title">Nhóm 11</h3>
-                <p class="desc">Website của nhóm 11 luôn cung cấp luôn là sản phẩm chính hãng có thông tin rõ ràng, chính sách ưu đãi cực lớn cho khách hàng có thẻ thành viên.</p>
+                <h3 class="title">I8Smart</h3>
+                <p class="desc">Website thương mại điện tử luôn cung cấp luôn là sản phẩm chính hãng có thông tin rõ ràng, chính sách ưu đãi cực lớn cho khách hàng có thẻ thành viên.</p>
                 <div id="payment">
                     <div class="thumb">
                         <img src="public/images/img-foot.png" alt="">
@@ -20,9 +20,7 @@
                         <p>0335309844</p>
                     </li>
                     <li>
-                        <p>nguyentronghung3005@gmail.com</p>
-                        <p>lehuynhnguyen1008@gmail.com</p>
-                        <p>Viethoang3879@gmail.com</p>
+                        <p>I8Smart</p>
                 </ul>
             </div>
             <div class="block menu-ft policy" id="info-shop">
@@ -56,7 +54,7 @@
     </div>
     <div id="foot-bot">
         <div class="wp-inner">
-            <p id="copyright">© Bản quyền thuộc về NGUYENTRONGHUNG | LEHUYNHNGUYEN | TRUONGVIETHOANG </p>
+            <p id="copyright">© Bản quyền thuộc về NGUYENTRONGHUNG | PHAMKHUYEN | TRUONGVIETHOANG </p>
         </div>
     </div>
 </div>
